@@ -11,4 +11,6 @@ keywords = ["git", "commit", "date", "time"]
 categories = ["development-tools"]
 
 [dependencies]
-# Add any libraries you need here, e.g., 'chrono' for date handling
+chrono = "0.4"
+home = "0.5"
+which = "6.0"
