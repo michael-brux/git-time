@@ -1,0 +1,14 @@
+[package]
+name = "git-time"
+version = "0.1.0"
+edition = "2021"
+authors = ["Michael Brux <7270100+michael-brux@users.noreply.github.com>"]
+description = "A Git wrapper to set commit date and time"
+license = "MIT" # Matches your LICENSE file
+repository = "https://github.com/michael-brux/git-date"
+readme = "README.md"
+keywords = ["git", "commit", "date", "time"]
+categories = ["development-tools"]
+
+[dependencies]
+# Add any libraries you need here, e.g., 'chrono' for date handling
